@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Boualem93/Boualem93.github.io
+	branch = master
